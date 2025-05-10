@@ -7,25 +7,25 @@ import { ArrowLeft, ArrowRight } from "lucide-react";
 
 const testimonials = [
   {
-    name: "María Gómez",
-    role: "Fundadora de Libres Creativos",
+    name: "Laura Toro",
+    role: "Fotografa, Artista y Educadora ",
     comment:
-      "Trabajar con EscCode fue una experiencia increíble. Captaron la idea de mi proyecto desde el primer momento y lo ejecutaron con gran profesionalismo.",
-    avatar: "/avatars/avatar.jpg",
+      "Trabajar con EscCode fue una experiencia increíble. Captaron la idea de mi proyecto (https://lauratoro.com) desde el primer momento y lo ejecutaron con gran profesionalismo.",
+    avatar: "/avatars/laura.jpeg",
   },
   {
-    name: "Luciano Pérez",
-    role: "CTO en NubeMarket",
+    name: "Leonardo",
+    role: "Fundador Tech{Nous}",
     comment:
       "Destaco la calidad del código, la comunicación constante y la capacidad de resolver rápido cualquier cambio. EscCode es sinónimo de eficiencia.",
-    avatar: "/avatars/avatar.jpg",
+    avatar: "/proyectos/technous.jpg",
   },
   {
-    name: "Valeria Ruiz",
+    name: "Romina",
     role: "Emprendedora",
     comment:
-      "Me ayudaron a lanzar mi tienda online en tiempo récord. El diseño quedó hermoso y la plataforma funciona perfecto. ¡Gracias!",
-    avatar: "/avatars/avatar.jpg",
+      "Me ayudan a lanzar Sitios online en tiempo récord. El diseño satisface las necesidades y la plataformas funcionan perfecto. ¡Gracias!",
+    avatar: "/avatars/romi.png",
   },
 ];
 

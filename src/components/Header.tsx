@@ -39,6 +39,9 @@ export default function Header() {
           <a href="#about" className="hover:text-limeAccent transition">
             SOBRE NOSOTROS
           </a>
+          <a href="#testimonials" className="hover:text-limeAccent transition">
+            TESTIMONIOS
+          </a>
           <a href="#contact" className="hover:text-limeAccent transition">
             CONTACTO
           </a>
@@ -84,6 +87,13 @@ export default function Header() {
               onClick={() => setIsOpen(false)}
             >
               SOBRE NOSOSTROS
+            </a>
+            <a
+              href="#testimonials"
+              className="block py-2 hover:text-lime-600"
+              onClick={() => setIsOpen(false)}
+            >
+              TESTIMONIOS
             </a>
             <a
               href="#contact"
